@@ -23,7 +23,9 @@ El programa simula las funciones básicas de un cajero automático:
 ## 📸 Capturas de pantalla
 Así se ve el simulador ejecutándose en VS Code:
 
-![Simulador Bancario en C++](Captura%20de%20pantalla%20(179).png)
+![Captura de pantalla (179)](https://github.com/user-attachments/assets/8b2c7127-4199-4f6f-a751-6a04d496a9e0)
+
+![Captura de pantalla (177)](https://github.com/user-attachments/assets/c09ad652-fdea-4f72-b595-522f93d9d1c3)
 
 
 ## 🚀 Posibles mejoras
